@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    /* outline: 1px solid red ; */
+}
+.logoImg{
+    margin-right: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.trollyimg{
+    margin-left: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.slideImg{
+    margin-top: 5vh;
+    /* padding: 3rem; */
+    height: 100vh;
+    width: 100vw;
+}
+.content{
+
+    /* background-color: rgb(65, 64, 64); */
+}
+.cardContainer{
+    width: 96vw;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.col img{
+    margin-top: 2rem;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+
+}
+.plantSec{
+
+    margin-top: 2rem;
+    margin-left: 35px;
+
+}
+.seedSec{
+
+    margin-top: 2rem;
+    margin-left: 35px;
+
+}
+
+/* .webfooter{
+    margin-left: -2rem;
+    text-align: center; 
+    margin-top: 2rem;
+    background-color: grey;
+}
+.webfooter footer{
+    padding: 1rem;
+
+} */
+.footer{
+    height: 10vh;
+    width: 98.9vw;
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(246, 227, 13);
+}
+
+.footer h4{
+    margin-left: 35vw;
+    padding-top: 20px;
+}
+
+.componant{
+    height: 100vh;
+    width: 98.9vw;
+    background-color: rgb(229, 175, 103);
+}
+.columns{
+    /* font-weight: bold; */
+    /* padding: 2rem !important; */
+}
+
+.span{
+    font-weight: bold;
+    cursor: pointer;
+}
+.span1{
+    font-weight: bolder;
+    cursor: pointer;
+}
